@@ -3,8 +3,8 @@
   data-item-id="{{ product.identifier }}"
   data-item-name="{{ product.name }}"
   data-item-price="{{ product.price }}"
-  data-item-image="{{ product.image }}"
-  data-item-url="{{ site.url }}{{ site.baseurl}}{{ page.url }}"
+  data-item-image="{{ product.image | absolute_url }}"
+  data-item-url="{{ page.url | absolute_url }}"
   data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}">
   Add to cart (${{ product.price }})
 </button>
