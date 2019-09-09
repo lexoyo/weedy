@@ -148,10 +148,10 @@ body {
 
   &:nth-last-of-type(odd) & {
     &__information {
-      margin-left: 0;
-      margin-right: $size--unit * 4;
+      //margin-right: 0;
+      margin-left: $size--unit * 4;
       @include sm {
-        margin-right: 0;
+        margin-left: 0;
       }
     }
 
@@ -178,9 +178,9 @@ body {
 
   &__information {
     flex: 1;
-    margin-left: $size--unit * 4;
+    //margin-left: $size--unit * 4;
     @include sm {
-      margin-left: 0;
+      margin-right: 0;
     }
   }
 
@@ -256,4 +256,37 @@ body {
 
 .snipcart-layout__header {
   min-height: 80px;
+}
+
+// About by lexo
+.about {
+  text-align: center;
+  h1, h2 {
+    font-size: 25px;
+    font-weight: 400;
+    margin-top: 150px;
+    margin-bottom: 100px;
+  }
+  h3 {
+    font-size: 20px;
+    font-weight: lighter;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  ul.cols3 {
+    column-count: 3;
+		column-width: 200px;
+		list-style: none;
+		padding: 0;
+		li {
+			display: inline-block;
+		}
+  }
+  .icon {
+    width: 100px;
+    height: 100px;
+		background-repeat: no-repeat;
+		background-size: contain;
+		margin: 20px auto;
+	}
 }
