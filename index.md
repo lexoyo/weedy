@@ -1,10 +1,10 @@
 ---
 layout: default
----
 
+---
 <div class="about">
 
-<h1>Le meilleur du CBD actuel, garanti zéro THC</h1>
+<h1>Le meilleur du CBD garanti zéro THC</h1>
 
 <ul class="cols3 cols">
 <li>
