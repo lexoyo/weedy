@@ -1,7 +1,11 @@
 ---
-identifier: jekyll-irises
-name: Irises
-price: 64.95
-image: /assets/images/irises.jpg
+identifier: black-tincture-aka-halo
+name: Black Tincture Aka HALO
+price: '119'
+image: /assets/2019-09-02-754827.png
+title: >-
+  Teinture à l’huile CBD Bionic Butterfly - “Black Tincture Aka HALO” - CBD
+  1000mg / 30mL
+
 ---
-Irises is yet again, another painting by the Dutch artist Vincent van Gogh. Using advanced techniques only achievable with a drawn reciprocation dingle arm to reduce sinusoidal depleneration, we we're able to create a picture perfect replica.
+Nos teintures à l'huile CBD vous donnent des résultats rapidement et facilement. Chaque goutte contient notre huile de chanvre riche en phytocannabinoïdes, zero THC, à spectre complet. Simple et sûr, utilisez-le sublinguement jour et nuit suivant votre portion idéale de CBD.
