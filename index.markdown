@@ -9,7 +9,7 @@ layout: default
 
 <h1>Le meilleur du CBD actuel, garanti zéro THC</h1>
 
-<ul class="cols3">
+<ul class="cols3 cols">
 <li>
 <div class="icon" style="background-image: url({{ "assets/images/best.png" | relative_url }}"></div>
 
@@ -35,9 +35,13 @@ Si quoi que se soit vous déplais, renvoyez-nous le ou les produits qui posent p
 </li>
 </ul>
 
+<ul class="cols2 cols">
+
 {% for customer in site.customers %}
-  {% include customer.html %}
+  <li>{% include customer.html %}</li>
 {% endfor %}
+
+</ul>
 
 <h2>Produits recommandés pour vous</h2>
 
