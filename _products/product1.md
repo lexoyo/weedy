@@ -1,7 +1,10 @@
 ---
-identifier: jekyll-starry-night
-name: Starry Night
-price: 79.95
-image: /assets/images/starry-night.jpg
+identifier: phy2O
+name: PHY2O
+price: '55'
+image: /assets/images/2019-09-02-401707.png
+title: Nano Teinture PHY2O - Exhausteur de boisson CBD
+
 ---
-This is a high-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh. Using brand new techniques such as magneto-reluctance and capacitive diractance we were able to reproduce the original colours with a 99.99% accuracy.
+Exhausteur de boisson riche en cannabinoïdes pour un confort instantané.
+Contrairement aux teintures de cannabinoïdes à base d'huile, PHY2O est soluble dans l'eau et prêt à se dissoudre dans n'importe quelle boisson.
