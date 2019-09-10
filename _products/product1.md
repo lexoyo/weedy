@@ -2,7 +2,7 @@
 identifier: phy2O
 name: PHY2O
 price: '55'
-image: /assets/images/2019-09-02-401707.png
+image: /assets/2019-09-02-401707.png
 title: Nano Teinture PHY2O - Exhausteur de boisson CBD
 
 ---
