@@ -40,6 +40,15 @@ Si quoi que ce soit vous déplaît, renvoyez-nous le ou les produits qui posent 
 
 </ul>
 
+<h2>Produits recommandés pour vous</h2>
+
+</div>
+
+
+{% for product in site.products %}
+  {% include product.html %}
+{% endfor %}
+
 <p>
 Merci de nous contacter pour toute remarque, idée ou demande concernant nos produits et notre service.
 
@@ -50,11 +59,3 @@ Merci de nous contacter pour toute remarque, idée ou demande concernant nos pro
 </form> 
 </p>
 
-<h2>Produits recommandés pour vous</h2>
-
-</div>
-
-
-{% for product in site.products %}
-  {% include product.html %}
-{% endfor %}
