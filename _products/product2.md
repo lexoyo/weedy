@@ -2,7 +2,7 @@
 identifier: black-tincture-aka-halo
 name: Black Tincture Aka HALO
 price: '119'
-image: 'https://lexoyo.me/weedy/assets/2019-09-04-471774.png'
+image: /assets/2019-09-04-231325.png
 title: >-
   Teinture à l’huile CBD Bionic Butterfly - “Black Tincture Aka HALO” - CBD
   1000mg / 30mL
@@ -47,5 +47,4 @@ Huile de chanvre riche en phytocannabinoïdes à spectre complet issue de l'agri
 ## Dosage 
 
 Administrer par voie sublinguale. Commencer par 3 gouttes / 2 fois par jour, puis augmenter les doses et la fréquence au besoin.
-
 
