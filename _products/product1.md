@@ -2,7 +2,7 @@
 identifier: phy2O
 name: PHY2O
 price: '55'
-image: /assets/2019-09-02-401707.png
+image: 'https://lexoyo.me/weedy/assets/2019-09-04-494395.png'
 title: Nano Teinture PHY2O - Exhausteur de boisson CBD
 
 ---
@@ -34,3 +34,4 @@ La plupart des clients ajoutent six (6) gouttes dans plus ou moins 200ml d'eau p
 Les boissons préférées des clients sont le café, l'eau, les jus verts sains, les boissons énergisantes, les boissons d'entraînement, les shakes protéinés, et le thé.
 
 Si vous le souhaitez, vous pouvez également déposer PHY2O directement sur votre langue.
+
