@@ -49,7 +49,7 @@ Si quoi que ce soit vous déplaît, renvoyez-nous le ou les produits qui posent 
   {% include product.html %}
 {% endfor %}
 
-<p>
+<p class="about">
 Merci de nous contacter pour toute remarque, idée ou demande concernant nos produits et notre service.
 
 <form action="https://formspree.io/email@domain.tld" method="POST">
