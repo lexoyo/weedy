@@ -2,7 +2,7 @@
   <div class="product__information">
     <h2 class="product__title">{{ product.name }}</h2>
     <img src="{{ product.image }}" alt="{{ product.name }} product image" class="product__image">
-    <p class="product__description">{{ product.content | remove: '<p>' | remove: '</p>' }}</p>
+    <p class="product__description">{{ product.excerpt }}</p>
     {% include product-definition.html %}
   </div>
   <img src="{{ product.image | relative_url }}" alt="{{ product.name }} product image" class="product__image">

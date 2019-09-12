@@ -5,6 +5,6 @@
   data-item-price="{{ product.price }}"
   data-item-image="{{ product.image | absolute_url }}"
   data-item-url="{{ page.url | absolute_url }}"
-  data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}">
+  data-item-description="{{ product.excerpt }}">
   Add to cart (${{ product.price }})
 </button>
