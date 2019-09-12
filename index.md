@@ -40,6 +40,16 @@ Si quoi que ce soit vous déplaît, renvoyez-nous le ou les produits qui posent 
 
 </ul>
 
+<p>
+Merci de nous contacter pour toute remarque, idée ou demande concernant nos produits et notre service.
+
+<form action="https://formspree.io/email@domain.tld" method="POST">
+  <input placeholder="Votre email" type="email" name="_replyto">
+  <textarea placeholder="Votre message" name="message"></textarea>
+  <input type="submit" value="Send">
+</form> 
+</p>
+
 <h2>Produits recommandés pour vous</h2>
 
 </div>
