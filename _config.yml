@@ -1,12 +1,12 @@
-title: Weedy
+title: Feel good, CBD boutique en ligne, garantie qualité
 email: contact@weedy.com
 description: >-
   Write an awesome description for your new site here. You can edit this line in
   _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
-baseurl: /weedy
-url: 'http://lexoyo.me'
-twitter_username: weedy
+baseurl: /
+url: 'https://feelgood.ifrance.net'
+twitter_username: ''
 github_username: ''
 plugins:
   - jekyll-feed
