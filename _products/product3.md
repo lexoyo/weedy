@@ -2,7 +2,7 @@
 identifier: jekyll-almond
 name: Teinture à l’huile CBD Swiss Relief™ - Menthe - CBD 500mg / 30mL
 price: '59'
-image: /assets/images/almond.jpg
+image: 'https://lexoyo.me/weedy/assets/2019-09-04-818510.png'
 title: Teinture à l’huile CBD Swiss Relief™ - Menthe - CBD 500mg / 30mL
 
 ---
