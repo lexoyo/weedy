@@ -1,5 +1,9 @@
 ---
 title: Teinture à l’huile CBD Swiss Relief™ - Fruits rouges - CBD 500mg / 30mL
+identifier: jekyll-almond
+name: Teinture à l’huile CBD Swiss Relief™ - Fruits rouges - CBD 500mg / 30mL
+price: '59'
+image: /assets/2019-09-04-977809.png
 
 ---
 Un mélange de 30 ml d’huile de chanvre biologique pressée à froid avec 500 mg de CBD. Notre nanotechnologie et nos méthodes d'émulsion à haute vitesse créent une micro-encapsulation des molécules, ce qui entraîne une plus grande biodisponibilité.
