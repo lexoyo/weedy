@@ -19,3 +19,4 @@ Huile de graines de chanvre vierge pressée à froid, cdb, arômes naturels. Zé
 ## Dosage
 
 Administrer par voie sublinguale. Commencer par 3 gouttes / 2 fois par jour, puis augmenter les doses et la fréquence au besoin.
+
