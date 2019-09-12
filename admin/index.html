@@ -1,59 +1,43 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WJRTJ9M');</script>
+	<!-- End Google Tag Manager -->
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>Stastic Jekyll Editor</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-    body {
-      margin: 0;
-      overflow: hidden;
-    }
-    #stastic {
-      width: 100%;
-      height: 100%;
-      border: none;
-      position: absolute;
-    }
-  </style>
+  <link rel="stylesheet" href="https://editor.stastic.net/admin.css">
 </head>
 <body>
-  <iframe id="stastic"></iframe>
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJRTJ9M"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+  <span class="stastic-loader stastic-centered-message">Loading Stastic admin...</span>
+  <div id="root"></div>
   <script>
-    var freez = false;
-    function setIframeSrc() {
-      var API_ROOT_URL = 'https://stastic.net/admin.html';
-      var url = API_ROOT_URL
-        + '#' + encodeURIComponent(window.location.href.replace(window.location.search, '').replace(window.location.hash, '').replace('/admin', ''))
-        + '/' + encodeURIComponent('weedy/gh-pages')
-        + '/' + window.location.hash.substr(1);
-
-      document.getElementById('stastic').src = url;
+    var repo = 'weedy/gh-pages'.split('/')
+    window.stasticData = {
+      STASTIC_SERVER_URL: 'https://editor.stastic.net',
+      HOST_PAGE_VERSION: '1.0.0',
+      SITE_PATH: 'weedy/gh-pages',
+      REPO: repo[0],
+      BRANCH: repo[1],
     }
-    window.addEventListener('hashchange', function(event) {
-      // if(freez) return;
-
-      document.getElementById('stastic').contentWindow.postMessage({
-        type: 'hashChanged',
-        route: window.location.hash.substr(1),
-      }, '*');
-      // setIframeSrc();
-    });
-    window.addEventListener('message', function(event) {
-      // if(freez) return;
-
-      if(event.data.type && event.data.route && event.data.type === 'hashChanged') {
-        freez = true;
-        if(event.data.replace) window.location.replace('#' + event.data.route);
-        else window.location.hash = '#' + event.data.route;
-        setTimeout(function() { freez = false; }, 0);
-      }
-      if(event.data.type && event.data.url && event.data.type === 'redirect') {
-        window.location.href = event.data.url;
-      }
-    }, false);
-    setIframeSrc();
   </script>
+  <script src="https://editor.stastic.net/admin.js"></script>
+  <script>
+    ((window.gitter = {}).chat = {}).options = {
+      room: 'internet-de-france/Stastic',
+      activationElement: null,
+    };
+  </script>
+  <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
 </body>
 </html>
