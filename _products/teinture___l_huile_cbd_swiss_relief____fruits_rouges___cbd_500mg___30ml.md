@@ -1,6 +1,6 @@
 ---
 title: Teinture à l’huile CBD Swiss Relief™ - Fruits rouges - CBD 500mg / 30mL
-identifier: jekyll-almond
+identifier: teinture-huile-swiss-relief-fruits-rouges-cbd-500mg-30ml
 name: Teinture à l’huile CBD Swiss Relief™ - Fruits rouges - CBD 500mg / 30mL
 price: '59'
 image: /assets/2019-09-04-977809.png
