@@ -250,6 +250,9 @@ textarea {
   margin-top: $size--unit * 2;
   cursor: pointer;
   @include button-hover($color--primary);
+  strong {
+    color: white;
+  }
 }
 
 .footer {
