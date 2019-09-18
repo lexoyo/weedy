@@ -13,3 +13,5 @@ plugins:
 collections:
   - products
   - customers
+
+snipcartApiKey: 'YzUzYjE0NGItOTE1Zi00M2RhLTgyYTMtYzQyNjMzMGQwYjJlNjM3MDQ0MTcyOTI4Nzc5NzI5'
