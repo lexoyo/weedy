@@ -1,0 +1,10 @@
+<div class="product-head">
+  <img src="{{ product.image | relative_url }}" alt="{{ product.name }} product image" class="product__image">
+  {% include product-definition.html %}
+</div>
+<div class="product">
+  <div class="product__information">
+    <h2 class="product__title">{{ product.name }}</h2>
+    <p class="product__description">{{ content }}</p>
+  </div>
+</div>

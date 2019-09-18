@@ -232,7 +232,18 @@ textarea {
     line-height: $size--unit * 3.5;
   }
 }
-
+.product a {
+	text-decoration: none;
+}
+.product-head {
+text-align: center;
+margin-bottom: 100px;
+	img {
+max-width: 400px;
+display: block !important;
+margin: auto;
+}
+}
 .buy-button {
   all: unset;
   color: white;

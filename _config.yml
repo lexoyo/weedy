@@ -11,8 +11,17 @@ github_username: ''
 plugins:
   - jekyll-feed
 collections:
-  - products
-  - customers
+  products:
+    output: true
+  customers:
 
 snipcartApiKey: 'YzUzYjE0NGItOTE1Zi00M2RhLTgyYTMtYzQyNjMzMGQwYjJlNjM3MDQ0MTcyOTI4Nzc5NzI5'
 currency: '€'
+
+defaults:
+  -
+    scope:
+      path: "" 
+      type: "products"
+    values:
+      layout: "product-page"
