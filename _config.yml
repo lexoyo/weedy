@@ -1,11 +1,11 @@
-title: Feel good, CBD boutique en ligne, garantie qualité
+title: 'Feel good, CBD boutique en ligne, garantie qualité'
 email: contact@weedy.com
 description: >-
   Write an awesome description for your new site here. You can edit this line in
   _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
 baseurl: /
-url: 'https://feelgood.ifrance.net'
+url: 'https://apanagecbd.com'
 twitter_username: ''
 github_username: ''
 plugins:
@@ -13,5 +13,4 @@ plugins:
 collections:
   - products
   - customers
-
-snipcartApiKey: 'YzUzYjE0NGItOTE1Zi00M2RhLTgyYTMtYzQyNjMzMGQwYjJlNjM3MDQ0MTcyOTI4Nzc5NzI5'
+snipcartApiKey: YzUzYjE0NGItOTE1Zi00M2RhLTgyYTMtYzQyNjMzMGQwYjJlNjM3MDQ0MTcyOTI4Nzc5NzI5
