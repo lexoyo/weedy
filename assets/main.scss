@@ -33,7 +33,7 @@ body {
 
 textarea {
   display: block;
-  margin: 20px 0;
+  margin: 20px auto;
 }
 
 // Mixins
@@ -115,6 +115,7 @@ textarea {
     background-repeat: no-repeat;
     min-width: 250px;
     min-height: 80px;
+    cursor: pointer;
   }
 
   &__logo {
@@ -298,6 +299,7 @@ textarea {
 		margin: 100px 0;
 		li {
 			display: inline-block;
+      float: left;
 		}
   }
   .icon {
@@ -307,6 +309,9 @@ textarea {
 		background-size: contain;
 		margin: 20px auto;
 	}
+  li:first-of-type .icon {
+    margin-top: 0;
+  }
 }
 
 blockquote {
