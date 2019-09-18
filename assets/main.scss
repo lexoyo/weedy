@@ -291,6 +291,9 @@ textarea {
 	}
   ul.cols3 {
     column-count: 3;
+    li {
+      float: left;
+    }
   }
   ul.cols {
 		column-width: 200px;
@@ -299,7 +302,6 @@ textarea {
 		margin: 100px 0;
 		li {
 			display: inline-block;
-      float: left;
 		}
   }
   .icon {
