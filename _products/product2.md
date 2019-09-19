@@ -1,8 +1,10 @@
 ---
 identifier: black-tincture-aka-halo
-name: Black Tincture Aka HALO
+name: >-
+  Teinture à l’huile CBD Bionic Butterfly - “Black Tincture Aka HALO” - CBD
+  1000mg / 30mL
 price: '119'
-image: /assets/2019-09-04-231325.png
+image: /assets/2019-09-04-668473.png
 title: >-
   Teinture à l’huile CBD Bionic Butterfly - “Black Tincture Aka HALO” - CBD
   1000mg / 30mL
