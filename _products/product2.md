@@ -10,9 +10,6 @@ title: >-
   1000mg / 30mL
 
 ---
-
-![2019-09-04-668473.png](https://remijeanetienne.github.io/weedy/assets/2019-09-04-668473.png)
-![2019-09-04-751571.png](https://remijeanetienne.github.io/weedy/assets/2019-09-04-751571.png)
 Nos teintures à l'huile CBD vous donnent des résultats rapidement et facilement. Chaque goutte contient notre huile de chanvre riche en phytocannabinoïdes, zero THC, à spectre complet. Simple et sûr, utilisez-le sublinguement jour et nuit suivant votre portion idéale de CBD.
 
 <!-- more -->
