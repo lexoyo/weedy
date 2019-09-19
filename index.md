@@ -12,7 +12,7 @@ layout: default
 
 <h3>Le meilleur</h3>
 
-Nous sélectionnons pour vous des produits de qualité ultra-premium, conçus et fabriqués par des producteurs comptant parmi les plus réputés au monde, selon des procédés et savoir-faire à la pointe de l'industrie du CBD.
+Nous sélectionnons pour vous des produits de qualité ultra-premium, conçus et fabriqués par la crème des producteurs mondiaux, selon des procédés et savoir-faire à la pointe de l'industrie du CBD.
 
 </li><li>
 <div class="icon" style="background-image: url({{ "assets/images/zero-percent-thc.png" | relative_url }}"></div>
