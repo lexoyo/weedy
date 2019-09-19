@@ -1,9 +1,9 @@
-title: 'Feel good, CBD boutique en ligne, garantie qualité'
-email: contact@weedy.com
+title: 'Apanage CBD, boutique en ligne, garantie qualité'
+email: contact@apanagecbd.com
 description: >-
-  Write an awesome description for your new site here. You can edit this line in
-  _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  Le meilleur du CBD garanti zéro THC. Tous nos produits sont de qualité
+  ultra-premium; ils sont fabriqués par des producteurs haut de gamme, selon des
+  process à la pointe de l’industrie du CBD.
 baseurl: /
 url: 'https://apanagecbd.com'
 twitter_username: ''
@@ -13,15 +13,12 @@ plugins:
 collections:
   products:
     output: true
-  customers:
-
-snipcartApiKey: 'YzUzYjE0NGItOTE1Zi00M2RhLTgyYTMtYzQyNjMzMGQwYjJlNjM3MDQ0MTcyOTI4Nzc5NzI5'
-currency: '€'
-
+  customers: null
+snipcartApiKey: YzUzYjE0NGItOTE1Zi00M2RhLTgyYTMtYzQyNjMzMGQwYjJlNjM3MDQ0MTcyOTI4Nzc5NzI5
+currency: €
 defaults:
-  -
-    scope:
-      path: "" 
-      type: "products"
+  - scope:
+      path: ''
+      type: products
     values:
-      layout: "product-page"
+      layout: product-page
