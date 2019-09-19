@@ -27,7 +27,8 @@ Pour vous permettre de ne courir aucun risque en cas de test de dépistage, nos 
 
 <h3>Ganrantie sérénité</h3>
 
-Si quoi que ce soit vous déplaît, renvoyez-nous le ou les produits qui posent problèmes et nous vous remourserons immédiatement sans questions ni frais pour vous.
+<p>Une question, un souci ? Contactez-nous sans hésiter ! Nous vous répondrons sous 24H.<br/>
+Vous avez changé d'avis ? Renvoyez-nous votre commande,  nous vous rembourserons sans délai, ni question.</p>
 
 </li>
 </ul>
