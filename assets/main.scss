@@ -232,7 +232,18 @@ textarea {
     line-height: $size--unit * 3.5;
   }
 }
-
+.product a {
+	text-decoration: none;
+}
+.product-head {
+text-align: center;
+margin-bottom: 100px;
+	img {
+max-width: 400px;
+display: block !important;
+margin: auto;
+}
+}
 .buy-button {
   all: unset;
   color: white;
@@ -248,7 +259,11 @@ textarea {
   padding-left: $size--unit * 3;
   padding-right: $size--unit * 3;
   margin-top: $size--unit * 2;
+  cursor: pointer;
   @include button-hover($color--primary);
+  strong {
+    color: white;
+  }
 }
 
 .footer {
@@ -291,6 +306,9 @@ textarea {
 	}
   ul.cols3 {
     column-count: 3;
+    li {
+      float: left;
+    }
   }
   ul.cols {
 		column-width: 200px;
@@ -299,7 +317,6 @@ textarea {
 		margin: 100px 0;
 		li {
 			display: inline-block;
-      float: left;
 		}
   }
   .icon {
