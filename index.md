@@ -25,10 +25,9 @@ Pour vous permettre de ne courir aucun risque en cas de test de dépistage, nos 
 
 <div class="icon" style="background-image: url({{ "assets/images/money-back.png" | relative_url }}"></div>
 
-<h3>Ganrantie sérénité</h3>
+<h3>Garantie sérénité</h3>
 
-<p>Une question, un souci ? Contactez-nous sans hésiter ! Nous vous répondrons sous 24H.<br/>
-Vous avez changé d'avis ? Renvoyez-nous votre commande,  nous vous rembourserons sans délai, ni question.</p>
+Vous avez changé d'avis ? Renvoyez-nous votre commande,  nous vous rembourserons sans délai, ni question.
 
 </li>
 </ul>
