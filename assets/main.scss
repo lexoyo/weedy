@@ -308,6 +308,7 @@ margin: auto;
     column-count: 3;
     li {
       float: left;
+      min-height: 300px;
     }
   }
   ul.cols {
