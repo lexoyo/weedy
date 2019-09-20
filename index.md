@@ -12,7 +12,7 @@ layout: default
 
 <h3>CBD ultra-premium</h3>
 
-Apanage est fier de vous proposer la plus haute qualité de produits CBD existante. Pour cela nous sélectionnons les meilleurs producteurs au monde, en termes de réputation, de savoir-faire, et de fiabilité.
+Apanage est fier de vous proposer la plus haute qualité de produits CBD existante. Pour cela nous sélectionnons les meilleurs producteurs au monde, en termes de savoir-faire, de fiabilité, et de réputation.
 
 </li><li>
 <div class="icon" style="background-image: url({{ "assets/images/zero-percent-thc.png" | relative_url }}"></div>
