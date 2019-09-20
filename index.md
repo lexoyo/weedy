@@ -19,7 +19,7 @@ Apanage est fier de vous proposer la plus haute qualité de produits CBD existan
 
 <h3>Zéro THC</h3>
 
-Pour vous permettre de ne courir aucun risque en cas de test de dépistage, notre sélection de produits ne se contente pas de respecter le seuil maximal légal des 0.2% de THC: elle est garantie zéro THC.
+Pour vous permettre de ne courir aucun risque en cas de test de dépistage, notre gamme de produits ne se contente pas de respecter le seuil maximal légal des 0.2% de THC: elle est garantie zéro THC.
 
 </li><li>
 
