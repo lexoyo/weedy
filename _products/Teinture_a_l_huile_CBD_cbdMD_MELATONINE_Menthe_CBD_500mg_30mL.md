@@ -7,10 +7,10 @@ title: Teinture à l’huile CBD cbdMD + MÉLATONINE - Menthe - CBD 500mg / 30mL
 
 ---
 <ul>
-<li>Solution CBD pour favoriser le sommeil</li>
-<li>Procédé de fabrication CBD de haute qualité pour des propriétés de chanvre saines</li>
-<li>Produits sans THC, provenant de chanvre cultivé selon les méthodes de l'agriculture biologique</li>
-<li>Testé par un laboratoire tiers pour assurer sécurité et efficacité</li>
+<li>Solution CBD pour favoriser le sommeil.</li>
+<li>Procédé de fabrication CBD de haute qualité pour des propriétés de chanvre saines.</li>
+<li>Produits sans THC, provenant de chanvre cultivé selon les méthodes de l'agriculture biologique.</li>
+<li>Testé par un laboratoire tiers pour assurer sécurité et efficacité.</li>
 </ul>
 
 <!-- more -->
