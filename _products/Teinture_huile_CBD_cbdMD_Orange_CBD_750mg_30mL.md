@@ -13,6 +13,8 @@ published: false
 <li>Testé par un laboratoire tiers pour assurer sécurité et efficacité</li>
 </ul>
 
+<!-- more -->
+
 <i>Orange :</i>
 Fabriqué avec de l'extrait de mandarine, l'orange est notre saveur la plus populaire et a un goût fraîchement pressé. Nous recommandons cette saveur si vous recherchez quelque chose de sucré.
 
