@@ -27,7 +27,7 @@ Pour vous permettre de ne courir aucun risque en cas de test de dépistage, notr
 
 <h3>Garantie sérénité</h3>
 
-Vous avez changé d'avis ? Renvoyez-nous votre commande,  nous vous rembourserons sans délai, ni question.
+Vous avez changé d'avis ? Renvoyez-nous votre commande,  nous vous rembourserons sans délai ni question.
 
 </li>
 </ul>
