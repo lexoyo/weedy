@@ -15,7 +15,7 @@ title: Teinture à l’huile CBD cbdMD + MÉLATONINE - Menthe - CBD 500mg / 30mL
 
 <!-- more -->
 
-<i>!! Avertissements: peut provoquer un état de somnolence. Ne pas utiliser en cas de conduite d’un véhicule !!</i>
+<i>!! Avertissement: peut provoquer un état de somnolence. Ne pas utiliser en cas de conduite d’un véhicule !!</i>
 
 ## CBD PM pour le sommeil
 Si vous vous demandez quelle est la meilleure huile de CBD pour le sommeil, ne cherchez pas plus loin. Avec 500 mg de CBD, 150 mg de mélatonine et un mélange d'extraits d'herbes - camomille, extrait de racine de valériane, passiflore, houblon cascade, mélisse - notre mélange spécialement formulé de CBD PM est le compagnon idéal pour vos nuit.
