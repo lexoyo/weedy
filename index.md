@@ -10,25 +10,24 @@ layout: default
 <li>
 <div class="icon" style="background-image: url({{ "assets/images/best.png" | relative_url }}"></div>
 
-<h3>Le meilleur</h3>
+<h3>CBD ultra-premium</h3>
 
-Nous sélectionnons pour vous des produits de qualité ultra-premium, conçus et fabriqués par la crème des producteurs mondiaux, selon des procédés et savoir-faire à la pointe de l'industrie du CBD.
+Apanage est fier de vous proposer la plus haute qualité de produits CBD existante. Pour cela nous sélectionnons les tout meilleurs producteurs au monde, en termes de savoir-faire, d'innovation, et de réputation.
 
 </li><li>
 <div class="icon" style="background-image: url({{ "assets/images/zero-percent-thc.png" | relative_url }}"></div>
 
 <h3>Zéro THC</h3>
 
-Pour vous permettre de ne courir aucun risque en cas de test de dépistage, nos produits ne se contentent pas de respecter le seuil maximal légal des 0.2% de THC: ils sont garantis zéro THC.
+Pour vous permettre de ne courir aucun risque en cas de test de dépistage, notre gamme de produits ne se contente pas de respecter le seuil maximal légal des 0.2% de THC: elle est garantie zéro THC.
 
 </li><li>
 
 <div class="icon" style="background-image: url({{ "assets/images/money-back.png" | relative_url }}"></div>
 
-<h3>Ganrantie sérénité</h3>
+<h3>Garantie sérénité</h3>
 
-<p>Une question, un souci ? Contactez-nous sans hésiter ! Nous vous répondrons sous 24H.<br/>
-Vous avez changé d'avis ? Renvoyez-nous votre commande,  nous vous rembourserons sans délai, ni question.</p>
+Vous avez changé d'avis ? Renvoyez-nous votre commande,  nous vous rembourserons sans délai ni question.
 
 </li>
 </ul>

@@ -2,7 +2,7 @@
 identifier: teinture-huile-swiss-relief-menthe-cbd-500mg-30ml
 name: Teinture à l’huile CBD Swiss Relief™ - Menthe - CBD 500mg / 30mL
 price: '59'
-image: /assets/2019-09-04-818510.png
+image: /assets/SR_Mint_500mg_Tincture_0820-Box-2 bis.png
 title: Teinture à l’huile CBD Swiss Relief™ - Menthe - CBD 500mg / 30mL
 
 ---
