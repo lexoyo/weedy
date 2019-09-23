@@ -1,7 +1,7 @@
 ---
 identifier: teinture-huile-CBD-cbdMD-Menthe-CBD-750mg-30mL
 name: Teinture à l’huile CBD cbdMD - Menthe - CBD 750mg / 30mL
-price: '59.90'
+price: '72'
 image: /assets/mint750_3 - Copie.png
 title: Teinture à l’huile CBD cbdMD - Menthe - CBD 750mg / 30mL
 published: false
