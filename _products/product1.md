@@ -4,6 +4,7 @@ name: Nano Teinture PHY2O - Exhausteur de boisson CBD
 price: '65'
 image: /assets/2019-09-04-494395.png
 title: Nano Teinture PHY2O - Exhausteur de boisson CBD
+out_of_stock: true
 
 ---
 Exhausteur de boisson riche en cannabinoïdes pour un confort instantané.
