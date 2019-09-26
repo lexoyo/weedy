@@ -4,6 +4,7 @@ identifier: teinture-huile-swiss-relief-fruits-rouges-cbd-500mg-30ml
 name: Teinture à l’huile CBD Swiss Relief™ - Fruits rouges - CBD 500mg / 30mL
 price: '69'
 image: /assets/SR_Berry_500mg_Tincture_0820-Box-2 - Copie.png
+out_of_stock: true
 
 ---
 Un mélange de 30 ml d’huile de chanvre biologique pressée à froid avec 500 mg de CBD. Notre nanotechnologie et nos méthodes d'émulsion à haute vitesse créent une micro-encapsulation des molécules, ce qui entraîne une plus grande biodisponibilité.
