@@ -5,6 +5,7 @@ price: '72'
 image: /assets/orange750_1_2 - Copie.png
 title: Teinture à l’huile CBD cbdMD - Orange - CBD 750mg / 30mL
 published: false
+out_of_stock: true
 
 ---
 <ul>
