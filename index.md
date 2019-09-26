@@ -4,7 +4,7 @@ layout: default
 ---
 <div class="about">
 
-<h1>CBD ultra-premium, garanti zéro THC</h1>
+<h1>CBD ULTRA-PREMIUM, GARANTI ZÉRO THC</h1>
 
 <ul class="cols3 cols">
 <li>
