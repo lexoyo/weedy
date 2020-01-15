@@ -5,7 +5,7 @@ price: '54'
 image: /assets/2019-09-00-662213.png
 title: Teinture à l’huile CBD cbdMD + MÉLATONINE - Menthe - CBD 500mg / 30mL
 published: false
-out_of_stock: true
+out_of_stock: false
 
 ---
 <ul>
