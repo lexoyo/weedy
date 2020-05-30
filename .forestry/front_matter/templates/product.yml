@@ -1,0 +1,22 @@
+---
+label: product
+hide_body: false
+fields:
+- type: text
+  name: identifier
+  label: identifier
+- type: text
+  name: name
+  label: name
+- type: text
+  name: price
+  label: price
+- type: file
+  name: image
+  label: image
+- type: text
+  name: title
+  label: title
+- type: boolean
+  name: out_of_stock
+  label: out_of_stock
